@@ -1,0 +1,26 @@
+1. Git Version
+
+ git --version
+
+2. set user name or email in configuration file
+
+git config --global user.name "USERNAME"
+git config --global user.email "EMAILID"
+
+3. get user name or email
+
+git config --global user.name
+git config --global user.email
+
+4. open vi editor to edit config file
+
+git config --global --edit
+
+5. start git init
+
+git init
+
+6. to check git status
+
+git status
+
