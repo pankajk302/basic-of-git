@@ -24,3 +24,9 @@ git init
 
 git status
 
+7. add files to staged area
+
+git add filename
+
+8. commit files
+ git commit -m "messages"
