@@ -30,3 +30,13 @@ git add filename
 
 8. commit files
  git commit -m "messages"
+
+9. create new branch
+
+git branch <branch_name>
+
+10. change branch location
+
+git checkout <branch_name>
+
+11. 
