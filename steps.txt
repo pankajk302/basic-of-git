@@ -42,3 +42,9 @@ git checkout <branch_name>
 11. merge two barnches
 
 git merge <branch_name>
+
+12. push files to the github
+
+git remote add origin https://github.com/pankajk302/basic-of-git.git
+git branch  -M master
+git push -u origin master // master is a branch name
