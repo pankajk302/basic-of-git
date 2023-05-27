@@ -39,4 +39,6 @@ git branch <branch_name>
 
 git checkout <branch_name>
 
-11. 
+11. merge two barnches
+
+git merge <branch_name>
